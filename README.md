@@ -1,4 +1,4 @@
-## Olá! Me chamo Endryus Montezano 🖐️Add commentMore actions
+## Olá! Me chamo Endryus Montezano 🖐️
 
 Sou estudante de Engenharia de Software, atualmente no quinto semestre, com foco em desenvolvimento web. Estou buscando sempre evoluir e aprender e aperfeiçoar meus conhecimentos e habilidades para crescer profissionalmente e colaborar com equipes em projetos reais.
 
@@ -15,6 +15,6 @@ Sou estudante de Engenharia de Software, atualmente no quinto semestre, com foco
 ## Conecte-se Comigo
 
 <div> 
- <a href="https://www.linkedin.com/in/endryus-montezano-1942b3247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> Add commentMore actions
+ <a href="https://www.linkedin.com/in/endryus-montezano-1942b3247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:endryusmontezano@live.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>
 </div>

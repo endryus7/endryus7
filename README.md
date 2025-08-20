@@ -1,6 +1,6 @@
 ## Olá! Me chamo Endryus Montezano 🖐️
 
-Sou estudante de Engenharia de Software, atualmente no quinto semestre, com foco em desenvolvimento web. Estou buscando sempre evoluir e aprender e aperfeiçoar meus conhecimentos e habilidades para crescer profissionalmente e colaborar com equipes em projetos reais.
+Sou estudante de Engenharia de Software, atualmente no quinto semestre, com foco em desenvolvimento front-end. Estou buscando sempre evoluir e aprender e aperfeiçoar meus conhecimentos e habilidades para crescer profissionalmente e colaborar com equipes em projetos reais.
 
 ## 💻 Habilidades
 

@@ -32,5 +32,5 @@ Estou sempre buscando evoluir, aprender novas tecnologias e aprimorar minhas hab
 
 <div> 
  <a href="https://www.linkedin.com/in/endryusmontezano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="mailto:endryusmontezano@live.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
+ <a href="mailto:endryusmontezano2@hotmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
 </div>

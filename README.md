@@ -1,7 +1,5 @@
 ## Olá! Me chamo Endryus Montezano 👋
-
 🎓 Estudante de Engenharia de Software (6º semestre)
-
 💻 Focado em desenvolvimento Front-End
 
 Estou sempre buscando evoluir, aprender novas tecnologias e aprimorar minhas habilidades para crescer profissionalmente e colaborar em projetos reais.
@@ -9,7 +7,6 @@ Estou sempre buscando evoluir, aprender novas tecnologias e aprimorar minhas hab
 ---
 
 ## 🚀 Tecnologias
-
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -22,8 +19,15 @@ Estou sempre buscando evoluir, aprender novas tecnologias e aprimorar minhas hab
 
 ---
 
-## 🌐 Portfólio
+## 📌 Projetos em Destaque
 
+- 🍓 [Chica Doçuras](https://chicadocuras.vercel.app) — Catálogo para cliente real com integração WhatsApp
+- ⚖️ [Mylenna Montezano](https://mylennamontezano.com.br) — Site profissional para advogada com domínio próprio
+- 🎉 [Party Time](https://party-time-inky.vercel.app) — Aplicação full stack com React + Node + MongoDB
+
+---
+
+## 🌐 Portfólio
 🔗 https://endryus7.github.io/Portfolio/
 
 ---

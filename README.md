@@ -21,8 +21,9 @@ Estou sempre buscando evoluir, aprender novas tecnologias e aprimorar minhas hab
 
 ## 📌 Projetos em Destaque
 
+
+- ⚖️ [HPM Advogadas](https://hpmadvogadas.vercel.app) — Site institucional desenvolvido para escritório de advocacia real
 - 🍓 [Chica Doçuras](https://chicadocuras.vercel.app) — Catálogo para cliente real com integração WhatsApp
-- ⚖️ [Mylenna Montezano](https://mylennamontezano.com.br) — Site profissional para advogada com domínio próprio
 - 🎉 [Party Time](https://party-time-inky.vercel.app) — Aplicação full stack com React + Node + MongoDB
 
 ---

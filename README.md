@@ -22,7 +22,8 @@ Estou sempre buscando evoluir, aprender novas tecnologias e aprimorar minhas hab
 ## 📌 Projetos em Destaque
 
 
-- ⚖️ [HPM Advogadas](https://hpmadvogadas.vercel.app) — Site institucional desenvolvido para escritório de advocacia real
+- ⚖️ [HPM Advogadas](https://www.hpmadvogadas.com.br) — Site institucional desenvolvido para escritório de advocacia real
+- 🚨 [André Albani Lara Advocacia](https://www.aaladvcriminal.com.br) — Site para advocacia criminal, cliente real
 - 🍓 [Chica Doçuras](https://chicadocuras.vercel.app) — Catálogo para cliente real com integração WhatsApp
 - 🎉 [Party Time](https://party-time-inky.vercel.app) — Aplicação full stack com React + Node + MongoDB
 
